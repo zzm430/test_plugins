@@ -1,0 +1,5 @@
+<library path="lib/libcontroller_for_plugin">
+	<class type="move_controller::MoveController" base_class_type="move_controller::MoveController">
+			<description>This is a MoveController plugin</description>
+		</class>
+</library>
